@@ -1,0 +1,16 @@
+.DS_Store
+**/.DS_Store
+
+# Local skill checkout and Codex links.
+product_skills-main/
+.agents/
+
+# Raw source screenshots can contain address/context data.
+screenshots/
+
+# Local and temporary files.
+tmp/
+*.swp
+*.tmp
+~$*.pptx
+~$*.docx
